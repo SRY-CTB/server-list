@@ -14,11 +14,17 @@ yggdrasil: true
 
 ## 介绍
 
-这里是DIS的二周目Mechanical town。我们不再满足于原版的各种玩法，从而引进Create机械动力及其附属模组，获得更多有意思的全新体验。\
+这里是DIS的二周目Mechanical town。我们不再满足于原版的各种玩法，从而引进Create机械动力及其附属模组，获得更多有意思的全新体验。
 #### 我们是一个和谐的大家庭。
 虽然DIS是生电服，但是你的红石能力并不是你通过审核的决定性因素，只要你有包括但不限于（建筑，后勤[上线时间长],红石，机械动力，~~人品好~~)的优点，我们就非常欢迎你加入！\
 进来之后就是同志了！我们正属开荒盛季，有兴趣的速速加入我们吧！
 
+#### 图例
+![DIS](https://pic-up.star-skin.cn/i/2023/08/07/90fce5dc-7bb1-b689-4212-307d42f4eb93.png)
+![DIS](https://pic-up.star-skin.cn/i/2023/08/07/827e8900-87dc-5f7f-bc6c-5a9c77903cd3.png)
+![DIS](https://pic-up.star-skin.cn/i/2023/08/07/2c0d68d0-5ed2-6be9-cb0c-dab243a2cc95.png)
+![DIS](https://pic-up.star-skin.cn/i/2023/08/07/0048abfd-ebca-2e71-731c-dfa243fe0db8.png)
+![DIS](https://pic-up.star-skin.cn/i/2023/08/07/0048abfd-ebca-2e71-731c-dfa243fe0db8.png)
 
 ## 表格
 
